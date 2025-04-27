@@ -48,7 +48,6 @@ Or manually:
 pip install tensorflow numpy matplotlib pillow scikit-learn
 ```
 
-*(Let me know if you want me to generate a full `requirements.txt` too!)*
 
 ---
 
